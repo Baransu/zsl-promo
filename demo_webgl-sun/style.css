@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+.box {
+	position: fixed;
+	margin: 32px;
+	padding: 8px;
+	border: 4px solid #39f;
+	color: #38f;
+	font-family: sans-serif;
+ }
+
+#selector {
+	right: 0;
+	top: 0;
+}
+
+#info {
+	left: 0;
+	bottom: 0;
+}

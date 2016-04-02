@@ -1,0 +1,33 @@
+* {
+	margin:0;
+	padding:0;
+}
+#myDiv{
+	width: 675px;
+	/*625*/
+	height: 675px;
+	position: fixed;	
+	border-collapse: collapse;
+}
+.field{
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	margin-top: -3px;
+	border: 1px solid black;
+}
+.snake{
+	background-color: green;
+}
+.front{
+	background-color: teal;
+}
+.jabko{
+	background-color: red;
+}
+#options{
+	width: 500px;
+	height: 300px;
+	border: 1px solid black;
+	margin-left: 750px;	
+}

@@ -1,0 +1,33 @@
+var gun = {
+	bulletType: "simple", // "shotgun" , "multishot"
+	richocetCount: 1, // ilosc rykoszetow
+	bulletSpawnCooldown: 0.5, //cooldown strzelania
+	bulletSpeed: 1000, //predkosc posickow
+	shotgunBullets: 5, // pi razy drzwi | musi byc wieksza od 1
+}
+
+F - dodanie przeciwnika
+
+Z - dev grid/ pathfinding nodes
+
+R - restart poziomu
+
+E - cool effects
+
+player.godMode = true/false //godMode
+
+
+/enemies sprawn points
+
+2530, 2435
+4112, 827
+5197, 1818
+5389, 3305
+4889, 4349
+2938, 5541
+2319, 4781
+274, 3731 
+2214, 951
+1032, 1788
+690, 5487
+141, 168

@@ -1,0 +1,23 @@
+{
+  "name": "festiwal-zawodow",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Baransu <sajgonek123@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.1",
+    "pixi.js": "^3.0.10"
+  }
+}
